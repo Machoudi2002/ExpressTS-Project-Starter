@@ -13,19 +13,19 @@ git clone https://github.com/Machoudi2002/ExpressTS-Project-Starter.git
 npm install 
 ```
 ### Third :
-- Update the Dependencies:
-**Dependencies :**
+Update the Dependencies
+- **Dependencies :**
 
 ```
 npm update --save
 ```
-**Dev Dependencies :**
+- **Dev Dependencies :**
 
 ```
 npm update --save-dev
 ```
 
-Now Your Ready To Go :
+### Finally :
 - Start Your Express Server
 ```
 npm run dev
